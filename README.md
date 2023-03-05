@@ -18,7 +18,7 @@ Learning to code with AI: As a beginner coder, I am using AI to assist me in lea
 
 # Repo and Readme.md Structure
 
-Is going to be very easy to know which parts of this repo where written with the help of AI, and which parts where written by me alone =). This section is an example of that. I want to keep this section dynamic and i want to remain well in control because it's inevitable that the Repo structure is going to change as this project progresses. And Yes the typos and grammar errors will stay. thats how you'll know it is me speaking.
+Is going to be very easy to know which parts of this repo where written with the help of AI, and which parts where written by me alone =). This section is an example of that. I want to keep this section dynamic and i want to remain well in control because it's inevitable that the Repo structure is going to change as this project progresses. And Yes the typos and grammar errors will stay. Thats how you'll know it is me and only me speaking.
 
 To keep this Readme from becoming an encyclopedia I will link to the docs folder which is located in the same relative path as the readme you are currently reading. This pattern is also applied to other readme files found in child directories. If i need to expand on the topic being discussed i will link to Readme.md files that are titled accordingly. I apologize in advance for any instances where I reference private repositories or public work that goes beyond the scope of this repository topic. These references are my 'Secret Sauce' and are necessary for providing a complete understanding of the topic.   
 
@@ -68,5 +68,17 @@ References:
 - ## Bias in Algorithms
 **[Problem Statement]**: AI models are only as unbiased as the data they are trained on. Bias in algorithms can perpetuate discrimination and reinforce systemic inequalities. This project aims to explore ways to mitigate and eliminate bias in AI algorithms.
 
+**[Proposed Solutions]**
+
 - ## Cost
+**[Problem Statement]**: Many AI research tools and technologies are expensive, which can pose a significant challenge for researchers with limited budgets or resources. This project aims to identify and explore cost-effective solutions for AI research.
+
+**[Proposed Solutions]**
+
 - ## Ethical Considerations
+**[Problem Statement]**: AI has the potential to impact society in significant ways, both positive and negative. This project aims to consider the potential ethical implications of AI research and to develop solutions that prioritize ethical considerations.
+
+**[Proposed Solutions]**
+
+
+<EOF>
